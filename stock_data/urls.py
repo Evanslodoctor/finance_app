@@ -2,7 +2,7 @@ from django.contrib import admin
 from django.urls import path
 from . import views
 
-app_name = 'your_app_name'  # Replace with your actual app name
+app_name = 'stock_data'  # Replace with your actual app name
 
 urlpatterns = [
     # Admin site
